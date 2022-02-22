@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle of tender love to friends in Ireland by your faithful friend and brother in the truth William Bingley.</title>
+            <author>Bingley, William, 1651-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28165</idno>
+            <idno type="STC">Wing B2918</idno>
+            <idno type="STC">ESTC R30297</idno>
+            <idno type="EEBO-CITATION">11285977</idno>
+            <idno type="OCLC">ocm 11285977</idno>
+            <idno type="VID">47296</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28165)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47296)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1455:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle of tender love to friends in Ireland by your faithful friend and brother in the truth William Bingley.</title>
+                  <author>Bingley, William, 1651-1715.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T.S. ...</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Ireland --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47296:1"/>
+            <pb facs="tcp:47296:1"/>
+            <p>
+               <hi>AN EPISTLE OF <hi>Tender Love,</hi> To Friends In IRELAND.</hi>
+            </p>
+            <p>By your Faithful Friend, and Brother in the Truth, <hi>William Bingley.</hi>
+            </p>
+            <q>
+               <p>In all their affliction he was afflicted, and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Angel of his preſence ſaved them: in his <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ove and in his pity he redeemed them, and he bare them, and carried them all the days of old,</p>
+               <bibl>Iſa. 63. 9.</bibl>
+            </q>
+            <q>
+               <p>Watch ye, ſtand faſt in the Faith, quit you like Men, be Strong,</p>
+               <bibl>1 Cor. 16. 13.</bibl>
+            </q>
+            <q>
+               <p>Caſt not away therefore your Confidence, which hath great re<g ref="char:EOLhyphen"/>compence of reward; For ye have need of Patience, that after ye have done the Will of God, ye might receive the Promiſe,</p>
+               <bibl>Heb. 10. 35, 26.</bibl>
+            </q>
+            <p>Printed, and ſold by <hi>T. S.</hi> at the <hi>Crooked-Billet</hi> in <hi>Holywell-Lane</hi> in <hi>Shoreditch,</hi> 1692.</p>
+            <pb facs="tcp:47296:2" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="religious_tract">
+            <pb n="3" facs="tcp:47296:2"/>
+            <head>An Epiſtle of Tender Love to Friends in <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <salute>Dear Friends and Brethren;</salute>
+            </opener>
+            <p>THe Tender Salutation of my unfeigned Love, in the Lord Jeſus Chriſt flows forth unto you, yea, in that Love and Life, which our God hath ſhed abroad in our Hearts, in which we have been Comforted in the Lord, and one in another, doth my Life reach unto you at this Time; and my hearty Deſires and Prayers are often put up unto the Lord on your behalf; That you may be preſerved ſtedfaſt in your holy Profeſſion, and ſincere to God through all Oppoſition and Affliction to the end. For I can Truly ſay, the ſence and Conſideration of your great Exerciſes Sufferings and Hardſhips, comes often weightily upon my Mind and Spirit, and I cannot but Sympathize with you therein, it being a day of Calamity and Diſtreſs, upon that poor Nation; and how ſoon it may fall upon us, we know not, but this is our Cry, the Lord prepare us for it that we may have a Foundation Sufficient to ſtand upon in that Day. And although 'tis yout Lot outwardly to partake thereof with many others of ſuch Cruelties, as makes my Spirit Mourn, to think, that ever Men ſhould be given up to do ſuch Inhumane Acts, as Strippings, Burnings and Murthers, <hi>&amp;c.</hi> Yet this is my Comfort and S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tisfaction (under all the bowings of my Spirit for you,) That God hath in his infinite Love and Mercy, brought you to the Knowledge of himſelf, and of his Son Jeſus Chriſt, whom to know is Life Eternal; and hath made you Partakers of his living Power and Arm, which is ſufficient to bear up your Minds, and Comfort your Souls and Spirits and to preſerve you from Fainting or Sinking under the greateſt of Tryals, and to make every Bitter thing Sweet, and hard things Eaſie to you; for although he may try you with great Afflictions, he will not leave you, nor forſake you; for he is God and changeth not; but is the ſame yeſterday, to day and forever, and his promiſe
+<pb n="4" facs="tcp:47296:3"/> was to his People, <hi>Iſrael</hi> of old, on this wiſe, though you go through the Fire the Flames ſhall not kindle upon you; or through the Water, the Floods ſhall not overwhelm you; and no doubt but the ſame Arm will uphold his <hi>Iſrael,</hi> in this our Day, and he will be as a Sun and a Shield unto all thoſe, who are preſerved faithful unto him, and truly caſt your Care upon him, for he careth for you; whoſe Expectations are to God alone for help and preſervation, and are kept under the con<g ref="char:EOLhyphen"/>duct of his Holy Spirit and Power; he will be your Strength and your Stay, and will be a ſafe hideing Place for you in this Day of Trouble and Storm; therefore let your dwelling be in the Name of the Lord, which ever was and is a ſtrong Tower, for the Righteous to fly unto, wherein they ever found Peace and Safety; for therein our Souls are out of the reach of the Devil, and his rage, although he may be permitted to touch our Bodys, and outward ſubſtances, and although theſe Afflicti<g ref="char:EOLhyphen"/>ons are your Portion and Lot for a ſeaſon, yet when the Ever<g ref="char:EOLhyphen"/>laſting God, (who knows all things, and what is good for us better then we know our ſelves) ſees that it will be for his Glory, and your Good<g ref="char:punc">▪</g> can ſay to theſe proud Waves, (which at preſent ſeem as if they would quite overflow,) be ſtill; and they muſt obey his Voice, for its the Lord alone that gives bounds thereto, and ſaith, Thus far ſhall you go and no further.</p>
+            <p>Therefore my dear Friends, keep your Eyes and Minds, to the Lords Power, and let your Truſt and Confidence be in him alone, for he never faileth them that put their Truſt in him; but he alwayes hath been a preſent Helper in a time of need to thoſe, who have no dependency upon any other, but upon his Eternal Arm and Power, nor no Helper in the Earth, but the Lord alone; and be faithful to God, and dwell in his Holy Spirit of Meekneſs, and of Love towards all men, even to the greateſt of your Enemies, for that is a true mark and token of be<g ref="char:EOLhyphen"/>ing Diſciples of Chriſt our Lord, whoſe Precepts and Counſel was to his Followers, <hi>Love your Enemies, Pray for them that de<g ref="char:EOLhyphen"/>ſpitefully uſe you, and Perſecute you;</hi> and do not let up a murmur<g ref="char:EOLhyphen"/>ing Spirit, nor a Spirit of Revenge, but dwell in the Meek Lambs Life, and in the Word of Gods Patience; for God hath promiſed to keep ſuch in the hour of Tribulation and Temp<g ref="char:EOLhyphen"/>tation,
+<pb facs="tcp:47296:3"/> that will come upon the Earth, to try them that dwell therein; and let your Habitation be in the Heavenly Power of God, for that is above and over all the powers of Darkneſs, and will out laſt all the Cruelty, and Barbarity of the Children of Darkneſs, and will bring to the mark of the price of the high calling of God in Chriſt Jeſus, and to reap the rewards of Well Done, and to Inherit the Crown of Eternal Glory, if you faint not, but hold out to the end, therefore your ſafety is to be ſingly reſigned up to the Will and Diſpoſing of our God, who can and will put a ſtop to their wicked and cruel proceedings when he in his Wiſdom and Goodneſs ſees meet.</p>
+            <p>And in the mean time keep your Minds and Spirits truly ſtay<g ref="char:EOLhyphen"/>ed upon him, for he will keep thoſe in perfect Peace, whoſe minds are ſtayed upon him, according to the Teſtimony of the Prophet of old.</p>
+            <p>And dear Friends, as God in his infinite Mercy hath been pleaſed to give every one of us, a meaſure of his Holy Spirit, and Grace to profit with. Oh! that every ones mind may be truly exerciſed therein and truly ſubjected to the Teachings and Government thereof, for therein is Peace and true Joy known, and increaſed to the Immortal Soul.</p>
+            <p>And as you in Dilligence are found waiting upon the Living God, you will find your ſtrength to be renewed in him, and you thereby bourn up, as on the Wings of an Eagle, above all thoſe things, that would make you to faint in your Minds, and to ſit down ſhort of that Inheritance of Eternal Life, and Crown of Glory, which God hath laid up in ſtore for them, that hold out to the end: Oh! be watchful over your own Hearts, and Spirits, and over your Words and Actions, that you keep in Innocency, and in the Simplicity of the Truth, and therein walk Inoffenſive<g ref="char:EOLhyphen"/>ly before all with whom you have to do, or amongſt whom your lot may be caſt; and then whatſoever Sufferings come upon you they will be without occaſion given on your parts, and therein you will have true Peace and Satisfaction, whatever your hard<g ref="char:EOLhyphen"/>ſhips or exerciſes may be.</p>
+            <p>And dear Friends, ſee that you keep your Hearts and Minds in an Holy Submiſſion and Reſignation to the Will of God in all things, being truly contented with, and Patient under your Troubles, following the Example of <hi>Job</hi> that good Man of
+<pb facs="tcp:47296:4"/> Old, who ſaid when <hi>Surrounded</hi> and Surprized with ſudden <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Evil Tidings, <q>The Lord giveth and the Lord taketh away, Bleſſed be the Name of the Lord.</q> And as thus you are kept by the Mighty Power of God, through Faith, Rooted and Grounded in Chriſt our Lord, not looking out at your Afflictions, but fixed and ſetled in him, who is the Munition of Rocks, where your Bread is ſure, and your Water failes not, nothing will be too hard for you, becauſe the Lord your ſtrength, is with you and is become your Rook, and Salvation, and your exceeding great reward.</p>
+            <p>Then if you ſhould looſe all your outward Enjoyments, you know him that is able to make it up again, yea and if you ſhould ſuffer Death it ſelf, as to your outward Man, you know him that is your Life, and this is a Life that Death and Hell cannot touch, nor all the Cruelties of the Wicked deprive you of, and herein you are the Lords, whether in Life or in Death, and will have the Evidence of Gods Spirit, bearing witneſs with your Spirits, that you are his <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hildren, and that you have faithfully ſerved <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od, in your Day. Thus having the bleſſed Evidence of Well Done, and peace from God in your ſelves, it will make up all your Sufferings and Loſſes, and will be a Portion and an Inheritance, beyond all the Treaſures and Plea<g ref="char:EOLhyphen"/>ſures of this Tranſitory and fadeing World.</p>
+            <p>And dear Friends as God hath been pleaſed to open the foun<g ref="char:EOLhyphen"/>tain of Divine Love to you; So wait to feel more and more, the ſame Love ſhed abroad in your Hearts, to keep your Minds and Spirits in a right frame, in this trying Day, that you may be kept open to God, and truly open in his Love one to ano<g ref="char:EOLhyphen"/>ther, and thereby you may be a ſtrength, and a comfort one to another, helping to build up one another, in the moſt Holy Faith; that notwithſtanding all the ſtormy Winds that may blow, and Floods that may beat againſt you to Scatter and waſh you, away, you being founded upon Chriſt the Living Rock may en<g ref="char:EOLhyphen"/>dure and ſtand immovable as Gods building, to his Glory, and your everlaſting Joy.</p>
+            <p>And now dear Friends, Let your Lives and Converſations amongſt all men be in Meekneſs, Patience, Temperance and Ho<g ref="char:EOLhyphen"/>lineſs that therein you may be Exemplary to all and inſtrumen<g ref="char:EOLhyphen"/>tal in the Hand of God, to turn the Children of men from the
+<pb n="7" facs="tcp:47296:4"/> darkneſs (and all their dark and evil Works and Wayes, which alwayes procure Wrath and Judgment from God.) To the Light of Chriſt in themſelves, which will ſhew them the evil of their Wayes; and as it is beleived in and cloſed with, will bring to true Repentance, and Remiſſion of Sins; and to an In<g ref="char:EOLhyphen"/>heritance incorruptable that fadeth not away: And be careful and tender of Gods Honour, and the Reputation of the Bleſſed Truth, and Breath to God and Supplicate him for one anothers good and preſervation every way in this day of Great Afflicti<g ref="char:EOLhyphen"/>on; which though the Lord may ſuffer you outwardly to par<g ref="char:EOLhyphen"/>take of, yet he will behold his afflicted ones, (who have no help<g ref="char:EOLhyphen"/>er in the Earth) with an Eye of Love and Compaſſion, and will as it was prophetically ſaid of old, lay the Foundations with Stones of fair Coulours, and will Beautifie with his own Beauty and make to ſhine forth in that Comlineſs, which he doth and will put upon his own Heritage and Off-ſpring.</p>
+            <p>Oh! Friends, ſince theſe late Calamities have attended you in that poor Nation, you have been often in my Mind, and the many times of Refreſhments, which we in the Preſence of God have enjoyed together, to our mutual Joy, and been as a well watered Garden, with the pleaſent Showers which have dropt from above, upon us, and yet fall upon the truly begotten of God, and made us to rejoyce together, in the Lord, and in the Power of his Might, and freſh in my Remembrance at this time, and therein are the reaches, of my Life and Spirit to you: My Friends and Brethren, This is it that Unites and Bundles up together in one, and makes Members of that Living Body, of which Chriſt our Lord is Head, as we are preſerved in this Memberſhip, we cannot but mourn and ſuffer with you, being in a Spiritual ſence as Fleſh of our Fleſh and Bone of our Bone.</p>
+            <p>And now my dear Friends, the earneſt Cry and Breathing of my Soul are to the Lord, that you and I, and all Gods Heritage, may be preſerved in a living Sence, of the Goodneſs and Pre<g ref="char:EOLhyphen"/>ſence of God, to the End, and that he may more and more break the Bread of Life unto you, and the Waters of a full Cup may be daily adminiſtred unto you, to ſtrengthen your Souls, that ſo you may have cauſe to ſay, and that with Joy, that though your Tribulations in this World do abound, yet your Conſolation and Peace in our Lord Jeſus Chriſt, doth
+<pb n="8" facs="tcp:47296:5"/> much more abound; and thus being preſerved in a Divine ſence, will ſweeten your Exerciſes: and alſo ſweeten your Spirits under them, and Sanctifie every ſtate to you, and all things will work together for your Good, and to the Glory of God, who hath been your Strength and preſerver through all your Afflictions, and will be, as your Eyes are kept to him.</p>
+            <p>So into the Hands of our God<g ref="char:punc">▪</g> as in to the Hands of a Faith<g ref="char:EOLhyphen"/>ful Creator do I recommend you, and leave you with all his Flock and Heritage every where; who am, Your Lov<g ref="char:EOLhyphen"/>ing Friend<g ref="char:punc">▪</g> and Brother in the Truth, Bowed in Spirit to the Lord for your Preſervation to the End.</p>
+            <closer>
+               <dateline>Written in London, <date>the 2d of the firſt Month, 1690/1.</date>
+               </dateline>
+               <signed>William Bingley.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:47296:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
